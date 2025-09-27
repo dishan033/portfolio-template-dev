@@ -272,7 +272,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎯 Showcase
 
 If you use this template, I'd love to see your creation! Feel free to:
-- Tweet [@yourusername](https://twitter.com/yourusername) with your portfolio
 - Submit a PR to add your site to the showcase
 - Star this repository if it helped you
 
